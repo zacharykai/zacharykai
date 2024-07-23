@@ -1,6 +1,6 @@
 ## Zachary Kai
 
-Hi! I'm Zachary Kai, a scifi writer (THE MARA FILES, DON'T BURN TOO BRIGHT), and the sole operator of [the book blog Road Less Read](https://www.roadlessread.com/).
+Hi! I'm Zachary Kai, a scifi writer (THE MARA FILES, DON'T BURN TOO BRIGHT), and the sole operator of [Road Less Read](https://www.roadlessread.com/).
 
 Also an offbeat queer, twenty-something, curiosity enthusiast, and traveller. [See here for more about me](https://zacharykai.net/about).
 
