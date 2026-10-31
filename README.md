@@ -13,11 +13,11 @@ An avowed generalist, and learning to be proud of it.
 ## Latest Notes
 
 <!-- latest-notes:start -->
-- [Cooking Conundrums Challenge](https://zacharykai.net/notes/cookingqna) · 18 Oct 2026
+- [Characters Who Confused/Delighted/Saved Me](https://zacharykai.net/notes/bbcoct26) · 31 Oct 2026
+- [When I’m With You, The World Tilts On Its Axis And It’s Not Just Me](https://zacharykai.net/notes/ifcoct26) · 31 Oct 2026
+- [In The Simplicity Lies Inherent Complexity](https://zacharykai.net/notes/icoct26) · 31 Oct 2026
 - [Food Questions Challenge](https://zacharykai.net/notes/foodqna) · 18 Oct 2026
-- [Tend To The Small Things](https://zacharykai.net/notes/tend) · 22 Aug 2026
-- [What Everyone Should Know About Australia](https://zacharykai.net/notes/australia) · 20 Aug 2026
-- [What We Made On HTML Day 2026](https://zacharykai.net/notes/html26recap) · 9 Aug 2026
+- [Cooking Conundrums Challenge](https://zacharykai.net/notes/cookingqna) · 18 Oct 2026
 <!-- latest-notes:end -->
 
 ## Find Me
